@@ -18,14 +18,17 @@ Being part of the IBM Professional Certificate program as a Backend Developer, t
 
 <hr>
 ## Installation
+
 1. Clone the repository:
 ```sh
 git clone https://github.com/LeandraMT/coursera_project.git
 ```
+
 2. Navigate to the project directory:
 ```sh
 cd coursera_project
 ```
+
 3. Install dependencies:
 ```sh
 npm install
@@ -48,14 +51,17 @@ npm start
 ```sh
 git clone https://github.com/LeandraMT/coursera_project.git
 ```
+
 2. Navigate to the project directory:
 ```sh
 cd coursera_project
 ```
+
 3. Build the Docker Image:
 ```sh
 docker-compose build
 ```
+
 4. Start the Docker containers:
 ```sh
 docker-compose up -d
