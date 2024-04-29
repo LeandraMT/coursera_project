@@ -17,6 +17,7 @@ Being part of the IBM Professional Certificate program as a Backend Developer, t
 |          | MongoDB  |
 
 <hr>
+
 ## Installation
 
 1. Clone the repository:
